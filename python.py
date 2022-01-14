@@ -5,3 +5,10 @@ def simplyfunc(name):
 
 simplyfunc("Maxym")
 exit()
+import sys
+def simplyfunc(name):
+	c = print("Hello,",name)
+	print(c)
+
+simplyfunc("Maxym")
+exit()
